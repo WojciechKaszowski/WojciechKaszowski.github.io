@@ -11,3 +11,8 @@ h1 {
   background-color: green;
   border-style: dotted;
 }
+
+#list p {
+  background-color: yellow;
+  font-style: italic;
+}
