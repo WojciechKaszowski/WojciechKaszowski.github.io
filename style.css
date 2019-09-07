@@ -8,5 +8,6 @@ h1 {
 }
 
 #list {
-  background-color: green
+  background-color: green;
+  border-style: dotted;
 }
