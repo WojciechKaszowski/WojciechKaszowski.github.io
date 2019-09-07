@@ -12,7 +12,7 @@ h1 {
   border-style: dotted;
 }
 
-#list p {
+#list li {
   background-color: yellow;
   font-style: italic;
 }
