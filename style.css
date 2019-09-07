@@ -7,12 +7,12 @@ h1 {
   font-size: 20px;
 }
 
-#list {
+.list {
   background-color: green;
   border-style: dotted;
 }
 
-#list li {
+.list li {
   background-color: yellow;
   font-style: italic;
 }
